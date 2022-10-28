@@ -1,0 +1,2 @@
+This is the Hilo Game where the user pulls up a card and they need to guess if the next car is lower or higher, if they guess it correctly they wins +100 points if they guess it incorrectly they get -75 points.
+The game finishes when the user decides after a question or when the user 
